@@ -1,4 +1,59 @@
-export const config = {
+type SkillCategory = {
+    title: string;
+    description: string;
+    details: string;
+    tools: string[];
+};
+
+type ContactLinks = {
+    email: string;
+    github: string;
+    linkedin: string;
+    instagram: string;
+    mastodon: string;
+};
+
+type Config = {
+    developer: {
+        name: string;
+        fullName: string;
+        title: string;
+        description: string;
+    };
+    social: {
+        github: string;
+        email: string;
+        location: string;
+    };
+    about: {
+        title: string;
+        description: string;
+    };
+    experiences: Array<{
+        position: string;
+        company: string;
+        period: string;
+        location: string;
+        description: string;
+        responsibilities: string[];
+        technologies: string[];
+    }>;
+    projects: Array<{
+        id: number;
+        title: string;
+        category: string;
+        technologies: string;
+        image: string;
+        description: string;
+    }>;
+    contact: ContactLinks;
+    skills: {
+        develop: SkillCategory;
+        design: SkillCategory;
+    };
+};
+
+export const config: Config = {
     developer: {
         name: "Atharva",
         fullName: "Atharva Gogawale",
@@ -88,8 +143,8 @@ export const config = {
         email: "gogawaleatharva997@gmail.com",
         github: "https://github.com/Atharv-0700",
         linkedin: "https://www.linkedin.com/in/atharva-gogawale-259173354/",
-        instagram: "https://www.instagram.com/athgo7002",
-        mastodon: "https://github.com/Atharv-0700"
+        instagram: "https://www.instagram.com/_athgo07/",
+        mastodon: "https://mastodon.social/@AtharvaGogawale"
     },
     skills: {
         develop: {
