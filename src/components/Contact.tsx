@@ -94,24 +94,6 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href={config.contact.twitter}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href={config.contact.facebook}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Facebook <MdArrowOutward />
-            </a>
-            <a
               href={config.contact.instagram}
               target="_blank"
               rel="noopener noreferrer"
@@ -119,6 +101,22 @@ const Contact = () => {
               className="contact-social"
             >
               Instagram <MdArrowOutward />
+            </a>
+            <a
+              href={config.contact.mastodon}
+              target="_blank"
+              rel="noopener noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Mastodon <MdArrowOutward />
+            </a>
+            <a
+              href={`mailto:${config.contact.email}`}
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Email <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">

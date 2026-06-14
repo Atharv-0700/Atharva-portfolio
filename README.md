@@ -6,7 +6,7 @@ A modern, high-performance **3D developer portfolio website** built with **React
 
 If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
 
-> Live preview: https://www.redoyanulhaque.me/
+> Portfolio owner: Atharva Gogawale
 
 ---
 
@@ -35,7 +35,7 @@ If you’re a developer looking for a **portfolio template** that feels premium,
 ### 1) Clone
 
 ```bash
-git clone https://github.com/red1-for-hek/portfolio-website.git
+git clone https://github.com/Atharv-0700/portfolio-website.git
 cd portfolio-website
 ```
 
@@ -82,7 +82,9 @@ If you found this useful:
 
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
+- GitHub: https://github.com/Atharv-0700
+- LinkedIn: https://www.linkedin.com/in/atharva-gogawale-259173354/
+- Instagram: https://www.instagram.com/athgo7002
 
 ---
 
