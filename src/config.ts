@@ -89,7 +89,9 @@ export const config = {
         github: "https://github.com/Atharv-0700",
         linkedin: "https://www.linkedin.com/in/atharva-gogawale-259173354/",
         instagram: "https://www.instagram.com/athgo7002",
-       
+        mastodon: "https://mastodon.social/@Atharva%20Mangesh%20Gogawale"
+    },
+    skills: {
         develop: {
             title: "DEVELOPMENT",
             description: "Modern web apps and programming foundations",
