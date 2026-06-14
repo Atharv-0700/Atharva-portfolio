@@ -1,57 +1,147 @@
-# 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
+# 🚀 Atharva Gogawale Portfolio
 
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./screen-capture%20(13).webm)
+![Portfolio Preview](./portfolio-preview.png)
 
-A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
+> BCA Student | Full Stack Developer | Data Analytics Enthusiast | Cloud Learner
 
-If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
-
-> Portfolio owner: Atharva Gogawale
+A modern and interactive developer portfolio showcasing my projects, technical skills, certifications, and achievements. Built with modern web technologies to provide a smooth and engaging user experience.
 
 ---
 
-## ✨ Highlights
+## 🌟 About Me
 
-- **3D / WebGL experience** powered by **Three.js**
-- Smooth animations with **GSAP**
-- Modern **React + TypeScript** codebase
-- Fast, responsive UI (desktop + mobile)
-- Designed for developers, engineers, programmers, and creators
+Hi, I'm **Atharva Gogawale**, a BCA student passionate about software development, web technologies, data analytics, and cloud computing.
+
+I enjoy building real-world applications that solve practical problems while continuously learning new technologies and improving my development skills.
 
 ---
 
-## 🧰 Tech Stack
+## ✨ Features
 
-- **React**
-- **TypeScript**
-- **Three.js / WebGL**
-- **GSAP**
-- **HTML / CSS / JavaScript**
+* Modern Responsive Design
+* Interactive 3D Elements
+* Smooth Animations
+* Project Showcase
+* Skills & Certifications Section
+* Contact Information & Social Links
+* Optimized Performance
+* Mobile Friendly Experience
 
 ---
 
-## 🚀 Getting Started
+## 💻 Tech Stack
 
-### 1) Clone
+### Frontend
+
+* React
+* TypeScript
+* HTML5
+* CSS3
+* JavaScript
+* Three.js
+* GSAP
+
+### Backend & Database
+
+* Node.js
+* Firebase
+* MongoDB
+* MySQL
+
+### Cloud & Deployment
+
+* AWS
+* Azure
+* Google Cloud
+* Vercel
+* Netlify
+
+### Tools
+
+* Git & GitHub
+* Docker
+* Figma
+* Power BI
+* Notion
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Smart Attendance Web App
+
+A smart attendance management platform designed for educational institutions with real-time tracking and analytics.
+
+**Tech:** TypeScript, Firebase, React
+
+---
+
+### 📚 EduLearn LMS
+
+A Learning Management System that allows students to access educational resources through a user-friendly interface.
+
+**Tech:** HTML, CSS, JavaScript, Firebase
+
+---
+
+### 🩸 HemoLink – Blood Donor Finder
+
+A web application connecting blood donors and recipients through a modern and responsive platform.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 🏆 Certifications
+
+* Deloitte Australia – Technology Job Simulation
+* Deloitte Australia – Cyber Job Simulation
+* Tata Cybersecurity Analyst Job Simulation
+* Tata Data Visualisation Job Simulation
+* Prompt Engineering Certification
+* HTML Fundamentals Certification
+* NISM Financial Literacy Course
+* GDG Hackathon Participation Certificate
+
+---
+
+## 📈 Current Focus
+
+* Full Stack Development
+* AI-Powered Applications
+* Data Analytics & Power BI
+* Cloud Computing
+* Open Source Contributions
+
+---
+
+## 🛠️ Installation
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/Atharv-0700/portfolio-website.git
-cd portfolio-website
+git clone https://github.com/Atharv-0700/Atharva-portfolio.git
 ```
 
-### 2) Install
+Navigate to the project folder:
+
+```bash
+cd Atharva-portfolio
+```
+
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-### 3) Run locally
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-### 4) Build
+Build for production:
 
 ```bash
 npm run build
@@ -59,43 +149,41 @@ npm run build
 
 ---
 
-## 🧩 Customize (Quick Guide)
+## 📬 Connect With Me
 
-Typical things you’ll want to update:
+### GitHub
 
-- **Your name + hero section text**
-- **Projects list**
-- **Social links** (GitHub, LinkedIn, email)
-- **SEO meta title/description**
+https://github.com/Atharv-0700
+
+### LinkedIn
+
+https://www.linkedin.com/in/atharva-gogawale-259173354/
+
+### Email
+
+[gogawaleatharva997@gmail.com](mailto:gogawaleatharva26@gmail.com)
+
+### Instagram
+
+https://www.instagram.com/athgo7002
 
 ---
 
 ## ⭐ Support
 
-If you found this useful:
+If you like this project:
 
-- Please **star** the repository (it helps a lot)
-- Share it with a friend who needs a portfolio template
-- Sponsor via the **Sponsor** button on GitHub (if available in your region)
-
----
-
-## 🤝 Connect
-
-- GitHub: https://github.com/Atharv-0700
-- LinkedIn: https://www.linkedin.com/in/atharva-gogawale-259173354/
-- Instagram: https://www.instagram.com/athgo7002
+* Star the repository
+* Follow my GitHub profile
+* Connect with me on LinkedIn
+* Share feedback and suggestions
 
 ---
 
-## 🏷️ Recommended GitHub Topics (add in repo settings)
+## 📄 License
 
-Add these topics to improve GitHub search visibility:
-
-`portfolio` `developer-portfolio` `portfolio-website` `portfolio-template` `3d-portfolio` `react` `typescript` `threejs` `webgl` `gsap` `frontend` `vite`
+This project is licensed under the MIT License.
 
 ---
 
-## 🪪 License
-
-This project is open source and available under the **MIT License**. See [LICENSE](LICENSE).
+### Designed & Developed by Atharva Gogawale © 2026
