@@ -93,15 +93,6 @@ const Navbar = () => {
               <HoverLinks text="CONTACT" />
             </a>
           </li>
-          <li>
-            <a
-              href="https://smart-attendance-web-app.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <HoverLinks text="SMART ATTENDANCE" />
-            </a>
-          </li>
         </ul>
       </div>
 

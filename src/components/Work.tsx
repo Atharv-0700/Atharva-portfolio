@@ -78,6 +78,16 @@ const Work = () => {
                 </div>
                 <h4>Tools and features</h4>
                 <p>{project.technologies}</p>
+                {index === 0 && (
+                  <a
+                    href="https://smart-attendance-web-app.vercel.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link"
+                  >
+                    Visit Project →
+                  </a>
+                )}
               </div>
               <WorkImage image={project.image} alt={project.title} />
             </div>
