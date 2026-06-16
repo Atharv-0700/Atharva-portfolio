@@ -1,6 +1,5 @@
 # 🚀 Atharva Gogawale Portfolio
-
-![Portfolio Preview](./portfolio-preview.png)
+![alt text](image.png)
 
 > BCA Student | Full Stack Developer | Data Analytics Enthusiast | Cloud Learner
 

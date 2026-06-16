@@ -95,9 +95,14 @@
   .landing-h2-1,
   .landing-h2-info {
     position: static !important;
-    display: block;
-    width: auto;
-    margin: 0 !important;
+    display: block !important;
+    width: auto !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    left: auto !important;
+    right: auto !important;
     font-size: 20px !important;
     line-height: 1.5 !important;
     white-space: normal;
